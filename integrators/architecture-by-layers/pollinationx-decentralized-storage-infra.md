@@ -34,6 +34,8 @@ After importing, you can use the package as required by your project.
 
 ### Resources
 
+{% embed url="https://wiki.pollinationx.io/" %}
+
 {% embed url="https://github.com/4thtech/sdk-js/tree/main/packages/storage" %}
 
 {% embed url="https://github.com/pollinationx/" %}
