@@ -40,12 +40,12 @@ Steps:
 * ⛏️ "**Mint**" your 100MB Free PX Storage NFT confirm the transaction with your wallet
 
 {% tabs %}
-{% tab title="Installing Encryptor" %}
-{% embed url="https://youtu.be/TjMTM35-o4M?si=jJexPQGRhp_1bR5J" %}
+{% tab title="Install the Encryptor" %}
+{% embed url="https://youtu.be/fU445TZEBuU" %}
 {% endtab %}
 
-{% tab title="Register Encryptor" %}
-{% embed url="https://youtu.be/qzW4Nhf5y2s?si=HEwyww9U9xWYCvxh" %}
+{% tab title="Register the Encryptor" %}
+{% embed url="https://youtu.be/QLw09E9y4SE?feature=shared" %}
 {% endtab %}
 {% endtabs %}
 
