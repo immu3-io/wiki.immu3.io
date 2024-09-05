@@ -4,7 +4,7 @@
 
 ## Introduction
 
-* [⚡ Start Here](introduction/start-here.md)
+* [Start Here](introduction/start-here.md)
 * [Ecosystem Overview](introduction/ecosystem-overview.md)
 * [Onboard](introduction/onboard.md)
 
@@ -20,7 +20,7 @@
 * [AppSuite](end-users/appsuite/README.md)
   * [BlockCommunicator App User Guide](end-users/appsuite/blockcommunicator-app-user-guide.md)
   * [W3XShare App User Guide](https://wiki.w3xshare.com/how-to-use-it/user-guide)
-  * [PX Drive App Users Guide](https://wiki.pollinationx.io/overview/px-drive/px-drive-user-guide)
+  * [PX dApp Users Guide](https://wiki.pollinationx.io/overview/px-dapp/px-dapp-user-guide)
 
 ## Integrators
 

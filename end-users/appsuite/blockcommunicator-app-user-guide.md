@@ -98,3 +98,9 @@ Creating Group Chat:
 * Add group members by pasting their wallet addresses
 * Mark / Unmark **"Only creator can add new members"** according to your specification
 * Create a Group and confirm the transaction with your wallet
+
+### Disclaimer
+
+THE SOFTWARE SET FORTH IN THESE TERMS IS PROVIDED 'AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTY THAT THE SOFTWARE IS FREE OF DEFECTS, MERCHANTABLE OR FIT FOR A PARTICULAR PURPOSE. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY US.
+
+In no event will the Company, its affiliates, distributors or resellers be liable for any indirect, special, incidental or consequential damages arising out of the use of or inability to use the software, including, without limitation, damages for lost profits, loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses, even if advised of the possibility thereof.

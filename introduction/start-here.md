@@ -2,9 +2,10 @@
 description: >-
   Learn about The Immu3, the ultimate Web3-Infra stack for building and
   utilizing on-chain communication applications
+icon: right-from-bracket
 ---
 
-# ⚡ Start Here
+# Start Here
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Get Starter</strong></td><td>Learn about the Immu3, The complete developer platform for pioneering the future of global on-chain communication.</td><td></td><td></td><td><a href="start-here.md#context">#context</a></td></tr><tr><td><strong>Onboard</strong></td><td>Discover how you can build on-chain communication apps or learn how to use already deployed app suite.</td><td></td><td></td><td><a href="https://wiki.immu3.io/introduction/onboard">https://wiki.immu3.io/introduction/onboard</a></td></tr><tr><td><strong>Immu3 AppChain</strong></td><td>Use fast finality/low cost on-chain communication-specific Immu3 AppChain.</td><td></td><td></td><td><a href="https://wiki.immu3.io/immu3-appchain/intro-to-appchain">https://wiki.immu3.io/immu3-appchain/intro-to-appchain</a></td></tr><tr><td><strong>Integrator Dashboard</strong></td><td>Unlock the skill and know-how required to abstract the complexities and simplify the deployment of on-chain communication apps.</td><td></td><td></td><td><a href="https://wiki.immu3.io/integrators/clients/intro-to-integrator-dashboard">https://wiki.immu3.io/integrators/clients/intro-to-integrator-dashboard</a></td></tr><tr><td><strong>Deploy on-chain email or messaging app</strong></td><td>Deploy on-chain mail, messaging or data-sharing apps and save engineering time by utilising easy-to-use White labels.</td><td></td><td></td><td><a href="https://wiki.immu3.io/integrators/occ-white-labels">https://wiki.immu3.io/integrators/occ-white-labels</a></td></tr><tr><td><strong>Utilize the SDK</strong></td><td>Enjoy seamless SDK interactions with protocol smart contracts, storage providers, encryption methods, and the Encryptor extension.</td><td></td><td></td><td><a href="https://wiki.immu3.io/integrators/occ-sdk">https://wiki.immu3.io/integrators/occ-sdk</a></td></tr></tbody></table>
 
