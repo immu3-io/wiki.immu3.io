@@ -1,8 +1,8 @@
 ---
+icon: right-from-bracket
 description: >-
   Learn about The Immu3, the ultimate Web3-Infra stack for building and
   utilizing on-chain communication applications
-icon: right-from-bracket
 ---
 
 # Start Here
@@ -80,7 +80,7 @@ https://github.com/4thtech
 ```
 {% endtab %}
 
-{% tab title="PollinationX (service)" %}
+{% tab title="PollinationX (infra)" %}
 ```
 https://pollinationx.io
 https://wiki.pollinationx.io
@@ -97,7 +97,7 @@ https://github.com/4thtech/encryptor-extension
 ```
 {% endtab %}
 
-{% tab title="BlockCommunicator" %}
+{% tab title="BlockCommunicator (dApp)" %}
 ```
 https://blockcommunicator.com
 https://app.blockcommunicator.com
