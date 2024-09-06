@@ -100,6 +100,7 @@ https://github.com/4thtech/encryptor-extension
 {% tab title="BlockCommunicator (dApp)" %}
 ```
 https://blockcommunicator.com
+https://testnet.blockcommunicator.com
 https://app.blockcommunicator.com
 ```
 {% endtab %}
