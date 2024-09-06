@@ -20,7 +20,7 @@ Steps:
 
 * ⚙️ Install and login to a supported wallet
 * 💰 Fund your wallet with gas
-* 🤝 Connect your wallet with the BlockCommunicator App (app.blockcommunicator.com)
+* 🤝 Connect your wallet with the [BlockCommunicator](https://app.blockcommunicator.com) App (app.blockcommunicator.com)
 * 🔗 Select blockchain
 
 ### Dashboard Setup <a href="#dashboard-setup" id="dashboard-setup"></a>
