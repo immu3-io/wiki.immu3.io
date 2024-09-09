@@ -6,7 +6,7 @@ description: >-
 
 # BlockCommunicator App User Guide
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>1️⃣ <strong>Wallet Setup</strong></td><td>Install, login, fund your wallet and connect to BlockCommunicator App.</td><td></td></tr><tr><td>2️⃣ <strong>Dashboard Setup</strong></td><td>Setup Encryptor, Mint a Storage NFT, Enable premium features</td><td></td></tr><tr><td>3️⃣ <strong>Sending &#x26; Receiving Blockmails</strong></td><td>Send encrypted on-chain emails or setup the incoming email whitelist.</td><td></td></tr><tr><td>4️⃣ <strong>Messaging &#x26; Group Messaging</strong></td><td>Message or create on-chain encrypted messaging groups.</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>1️⃣ <strong>Wallet Setup</strong></td><td>Install, login, fund your wallet and connect to BlockCommunicator App.</td><td></td></tr><tr><td>2️⃣ <strong>Dashboard Setup</strong></td><td>Setup Encryptor, Mint a Storage NFT, Enable premium features</td><td></td></tr><tr><td>3️⃣ <strong>Sending &#x26; Receiving Blockmails</strong></td><td>Send encrypted on-chain BlockMails or setup the incoming mail whitelist.</td><td></td></tr><tr><td>4️⃣ <strong>Messaging &#x26; Group Messaging</strong></td><td>Message or create on-chain encrypted messaging groups.</td><td></td></tr></tbody></table>
 
 ### Wallet Setup, App Connection and Blockchain Choice
 
@@ -20,12 +20,12 @@ Steps:
 
 * ⚙️ Install and login to a supported wallet
 * 💰 Fund your wallet with gas
-* 🤝 Connect your wallet with the [BlockCommunicator](https://app.blockcommunicator.com) App (app.blockcommunicator.com)
-* 🔗 Select blockchain
+* 🤝 Connect your wallet with the BlockCommunicator App;  [Testnet](https://testnet.blockcommunicator.com), [Mainnet](https://app.blockcommunicator.com)
+* 🔗 Select blockchain rails
 
 ### Dashboard Setup <a href="#dashboard-setup" id="dashboard-setup"></a>
 
-The BlockCommunicator app dashboard is your mission control within the application. It lets you set up self-custodial communication encryption via the Encryptor extension and manage decentralized storage with PX Storage NFTs.
+The BlockCommunicator dashboard is your mission control within the application. It gives you an overview, lets you set up self-custodial communication encryption via the Encryptor extension and manage decentralized storage via PX Storage NFTs.
 
 The Encryptor extension adds an encryption layer for blockchain-based mail and messages. A one-time on-chain transaction, requiring gas, saves the sender/recipient's public key.
 
@@ -40,12 +40,12 @@ Steps:
 * ⛏️ "**Mint**" your 100MB Free PX Storage NFT confirm the transaction with your wallet
 
 {% tabs %}
-{% tab title="Install the Encryptor" %}
-{% embed url="https://youtu.be/fU445TZEBuU" %}
+{% tab title="Install & Register the Encryptor" %}
+{% embed url="https://youtu.be/a4rcas60GVs?feature=shared&t=113" %}
 {% endtab %}
 
-{% tab title="Register the Encryptor" %}
-{% embed url="https://youtu.be/QLw09E9y4SE?feature=shared" %}
+{% tab title="Mint the PX Storage NFTs" %}
+{% embed url="https://youtu.be/a4rcas60GVs?feature=shared&t=202" %}
 {% endtab %}
 {% endtabs %}
 
@@ -56,8 +56,6 @@ Steps:
 ### Sending and receiving on-chain mails <a href="#how-to-send-data-files-using-polygon-or-arbitrum-mainnets-1" id="how-to-send-data-files-using-polygon-or-arbitrum-mainnets-1"></a>
 
 The BlockCommunicator app empowers you to send and receive end-to-end encrypted BlockMails, protecting against data mining, phishing, spoofing, spam, and identity theft. The sender and receiver must be on the same blockchain, as cross-chain emailing is not supported. While encryption is optional, we strongly encourage its use. On-chain communication incurs various [fees](https://wiki.immu3.io/builders/fees-and-integrator-economics) throughout the process.
-
-<figure><img src="../../.gitbook/assets/dMail-infographics.png" alt=""><figcaption></figcaption></figure>
 
 Sending Blockmails:
 
@@ -77,13 +75,19 @@ Account Whitelisting:
 * Add accounts (wallets) by pasting them in the designated form
 * "**Add Account**" and confirm the transaction with your wallet
 
+{% tabs %}
+{% tab title="Sent your first BlockMail" %}
+{% embed url="https://youtu.be/a4rcas60GVs?feature=shared&t=271" %}
+{% endtab %}
+
+{% tab title="Enable Address Whitelisting" %}
+{% embed url="https://youtu.be/a4rcas60GVs?feature=shared&t=372" %}
+{% endtab %}
+{% endtabs %}
+
 ### **Messaging & Group Messaging**
 
 The BlockCommunicator app lets you send end-to-end encrypted DMs and create on-chain group chats, fully controlled by users and resistant to data mining. Both sender and receiver must be on the same blockchain, as cross-chain messaging is not supported. On-chain messaging incurs various [fees](https://wiki.immu3.io/builders/fees-and-integrator-economics).&#x20;
-
-
-
-<figure><img src="../../.gitbook/assets/dChat-infographics.png" alt=""><figcaption></figcaption></figure>
 
 Steps:
 
@@ -98,6 +102,18 @@ Creating Group Chat:
 * Add group members by pasting their wallet addresses
 * Mark / Unmark **"Only creator can add new members"** according to your specification
 * Create a Group and confirm the transaction with your wallet
+
+{% tabs %}
+{% tab title="Send your first BlockMessage" %}
+{% embed url="https://youtu.be/a4rcas60GVs?feature=shared&t=409" %}
+{% endtab %}
+
+{% tab title="Create on-chain group chat" %}
+
+
+{% embed url="https://youtu.be/a4rcas60GVs?feature=shared&t=438" %}
+{% endtab %}
+{% endtabs %}
 
 ### Disclaimer
 
