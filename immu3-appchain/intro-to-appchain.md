@@ -6,9 +6,13 @@ description: >-
 
 # Intro to AppChain
 
+{% hint style="danger" %}
+**Note:** The Immu3 Testnet AppChain was deployed to support the Tanssi LFD campaign. It will be decommissioned by the end of September 2024.
+{% endhint %}
+
 ### Let's Start
 
-Immu3 AppChain is built on the Tansii AppChain infrastructure protocol. It inherits block finality (consensus) from Polkadot RelayChain. Consequently, it acts as a Layer 1 blockchain like Moonbeam, not Layer 2 solutions on top of another Layer 1. It is a public EVM smart contract platform that offers reliability, scalability and security needed within use cases of on-chain communication.&#x20;
+Immu3 AppChain was built on the Tansii AppChain infrastructure protocol. It inherits block finality (consensus) from Polkadot RelayChain. Consequently, it acts as a Layer 1 blockchain like Moonbeam, not Layer 2 solutions on top of another Layer 1. It is a public EVM smart contract platform that offers reliability, scalability and security needed within use cases of on-chain communication.&#x20;
 
 {% hint style="success" %}
 **Explainer:** Built on the Rust-based Substrate framework, [Tanssi](https://www.tanssi.network/) offers high performance, flexibility, and rapid deployment via its library of pre-built pallets. Substrate's modular structure eases appchain creation and deployment.
