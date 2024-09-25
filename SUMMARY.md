@@ -35,7 +35,7 @@
   * [Intro to BlockMail](integrators/clients-and-tools/intro-to-blockmail.md)
   * [Intro to BlockChat](integrators/clients-and-tools/intro-to-blockchat.md)
   * [Intro to Decentralized Data File Sharing](integrators/clients-and-tools/intro-to-decentralized-data-file-sharing.md)
-  * [Intro to Decentralized Storage Drive](integrators/clients-and-tools/intro-to-decentralized-storage-drive.md)
+  * [Intro to Decentralized Storage File Hosting Service](integrators/clients-and-tools/intro-to-decentralized-storage-file-hosting-service.md)
   * [Intro to Encryptor extension](integrators/clients-and-tools/intro-to-encryptor-extension.md)
   * [Intro to Integrator Dashboard](integrators/clients-and-tools/intro-to-integrator-dashboard.md)
 * [OCC White-labels](integrators/occ-white-labels.md)
