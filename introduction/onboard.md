@@ -22,7 +22,7 @@ description: >-
 ### Onboard by Experimenting
 
 1. [Connect](https://app.the4thpillar.io/) your wallet and test drive the white-label-based integrator \[4P] Email & Chat Super App
-2. Connect your wallet and test drive the white-label-based \[BlockCommunicator] BlockMail & BlockChat App (TBA)
+2. [Connect](https://testnet.blockcommunicator.com/) your wallet and test drive the white-label-based \[BlockCommunicator] BlockMail & BlockChat App
 3. [Connect](https://testnet.w3xshare.com/) your wallet and test drive the self-custodial integrator \[W3XShare] data-sharing App
 4. [Connect](https://drive.pollinationx.io) your wallet and test drive the \[PX Drive] decentralized storage “cloud storage like” App
 
