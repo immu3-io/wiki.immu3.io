@@ -14,11 +14,7 @@ description: >-
 ### Context
 
 {% hint style="danger" %}
-**Problem:** There is no denying that current email, messaging, and data transfer models are broken. We lose ownership of data the moment we attach it to an email or drop it in any cloud service, as we expose our communication content and metadata the moment we use any ”free” email, chat, or data transfer services available today. It goes without saying; **if you are not paying for the product, you are the product**. This “new normal” where users' data is mined and exploited is not viable. The time for an alternative is long overdue.
-{% endhint %}
-
-{% hint style="success" %}
-**Solution:** Blockchain on-chain communication can change the narrative of traditional digital communication and data management from; custodial to self-custodial; centralized to decentralized; permissioned to permissionless, and; from **“free” but mined to payable but yours**.
+**Problem:** Centralized communication platforms like force users to give up control of their data, which is mined, shared, and exploited for profit. This custodial model lacks trust, security, and privacy, leaving users vulnerable to data ownership loss, phishing, de-platforming, and mass surveillance—and it’s fundamentally incompatible with Web3. As Web3 activity increasingly moves on-chain, it’s clear that a secure, interoperable, self-custodial communication layer is essential to support the evolving landscape of human and AI agent interactions.
 {% endhint %}
 
 ### Welcome to Immu3
