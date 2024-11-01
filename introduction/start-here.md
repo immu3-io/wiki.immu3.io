@@ -14,7 +14,7 @@ description: >-
 ### Context
 
 {% hint style="danger" %}
-**Problem:** Centralized communication platforms like force users to give up control of their data, which is mined, shared, and exploited for profit. This custodial model lacks trust, security, and privacy, leaving users vulnerable to data ownership loss, phishing, de-platforming, and mass surveillance—and it’s fundamentally incompatible with Web3. As Web3 activity increasingly moves on-chain, it’s clear that a secure, interoperable, self-custodial communication layer is essential to support the evolving landscape of human and AI agent interactions.
+**Problem:** Centralized digital communication platforms force users to give up control of their data, which is mined, shared, and exploited for profit. This custodial model lacks trust, security, and privacy, leaving users vulnerable to data ownership loss, phishing, de-platforming, and mass surveillance—and it’s fundamentally incompatible with Web3. As Web3 activity increasingly moves on-chain, it’s clear that a secure, interoperable, self-custodial communication layer is essential to support the evolving landscape of human and AI agent interactions.
 {% endhint %}
 
 ### Welcome to Immu3
