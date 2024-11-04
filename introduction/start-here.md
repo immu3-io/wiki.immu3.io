@@ -2,7 +2,7 @@
 icon: right-from-bracket
 description: >-
   Learn about The Immu3, the ultimate Web3-Infra stack for building and
-  utilizing on-chain communication applications
+  utilizing trusted on-chain communication applications.
 ---
 
 # Start Here
