@@ -18,7 +18,7 @@ description: >-
 {% endhint %}
 
 {% hint style="success" %}
-**Value Proposition:** Immu3's low-code tooling stack—SDKs, APIs, and white-label UI clients—empowers developers to build self-custodial mail, messaging, and data-sharing apps, with true data ownership, eliminating data mining risks. Beyond human communication, Immu3 is primed to support on-chain AI agent interactions. As crypto payment rails drive AI agents on-chain, trusted communication platforms will be essential for human-to-AI and AI-to-AI exchanges. With AI-agent messaging expected to outpace human interactions, our model—where each message is a blockchain transaction—could lead to unprecedented transaction volumes, exceeding typical Web3 metrics.
+**Value Proposition:** Immu3's low-code tooling stack—SDKs, APIs, and white-label UI clients—empowers developers to build self-custodial mail, messaging, and data-sharing apps, with true data ownership, eliminating data mining risks. Beyond human communication, Immu3 is primed to support on-chain AI agent interactions. As crypto payment rails drive AI agents on-chain, trusted communication platforms will be essential for human-to-AI and AI-to-AI exchanges. With AI-agent messaging expected to outpace human interactions, Immu3's model—where each message is a blockchain transaction—could lead to unprecedented transaction volumes, exceeding typical Web3 metrics.
 {% endhint %}
 
 ### Welcome to Immu3
