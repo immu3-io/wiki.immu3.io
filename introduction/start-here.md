@@ -13,8 +13,12 @@ description: >-
 
 ### Context
 
-{% hint style="danger" %}
+{% hint style="info" %}
 **Problem:** Centralized digital communication platforms force users to give up control of their data, which is mined, shared, and exploited for profit. This custodial model lacks trust, security, and privacy, leaving users vulnerable to data ownership loss, phishing, de-platforming, and mass surveillance—and it’s fundamentally incompatible with Web3. As Web3 activity increasingly moves on-chain, it’s clear that a secure, interoperable, self-custodial communication layer is essential to support the evolving landscape of human and AI agent interactions.
+{% endhint %}
+
+{% hint style="success" %}
+**Value Proposition:** Immu3's low-code tooling stack—SDKs, APIs, and white-label UI clients—empowers developers to build self-custodial mail, messaging, and data-sharing apps, with true data ownership, eliminating data mining risks. Beyond human communication, Immu3 is primed to support on-chain AI agent interactions. As crypto payment rails drive AI agents on-chain, trusted communication platforms will be essential for human-to-AI and AI-to-AI exchanges. With AI-agent messaging expected to outpace human interactions, our model—where each message is a blockchain transaction—could lead to unprecedented transaction volumes, exceeding typical Web3 metrics.
 {% endhint %}
 
 ### Welcome to Immu3
