@@ -43,6 +43,7 @@ Immu3 enables ready-to-use multi-chain protocol instances on multiple EVM chains
 {% tab title="Faucets" %}
 | Chain            | TestNet Faucets 🔗                                                                      |
 | ---------------- | --------------------------------------------------------------------------------------- |
+| Citrea           | [➡️](https://citrea.xyz/faucet)                                                         |
 | Immu3            | [➡️](https://immu3-faucet.vercel.app/)                                                  |
 | Fantom           | [➡️](https://faucet.fantom.network/)                                                    |
 | Fantom Sonic     | [➡️](https://public-sonic.fantom.network/account)                                       |
