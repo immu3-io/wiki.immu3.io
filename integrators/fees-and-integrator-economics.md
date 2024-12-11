@@ -18,7 +18,7 @@ Parallel to the underlying L1/L2 transaction gas cost, the service fees (i.e. pr
 
 {% tabs %}
 {% tab title="Blockchain Fees" %}
-<table><thead><tr><th width="219.66666666666663">Smart Contract Methods</th><th>Gas Limit</th><th>*Estimated Price in S</th><th>*Estimated Price in FTM</th><th>*Estimated Price in ROSE</th></tr></thead><tbody><tr><td><code>[Users]</code> Register Encryptor</td><td>145000</td><td>≈ 0.0015 S</td><td>≈ 0.0059 FTM</td><td>≈ 0.014 ROSE</td></tr><tr><td><code>[Mail]</code> Send Mail</td><td>610000</td><td>≈ 0.0061 S</td><td>≈ 0.025 FTM</td><td>≈ 0.061 ROSE</td></tr><tr><td><code>[Mail]</code> Send Data file Package</td><td>610000</td><td>≈ 0.0061 S</td><td>≈ 0.025 FTM</td><td>≈ 0.061 ROSE</td></tr><tr><td><code>[Chat]</code> Send Message</td><td>*500000</td><td>≈ 0.005 S</td><td>≈ 0.02 FTM</td><td>≈ 0.05 ROSE</td></tr><tr><td><code>[Chat]</code> Create Group</td><td>*1025625</td><td>≈ 0.01 S</td><td>≈ 0.04 FTM</td><td>≈ 0.1 ROSE</td></tr><tr><td><code>[PX]</code> Mint free package or new storage</td><td>3800000</td><td>≈ 0.038 S</td><td>≈ 0.15 FTM</td><td>≈ 0.38 ROSE</td></tr><tr><td><code>[PX]</code> Mint Bandwidth</td><td>860000</td><td>≈ 0.009 S</td><td>≈ 0.03 FTM</td><td>≈ 0.086 ROSE</td></tr><tr><td><code>[PX]</code> Upgrade Package</td><td>1240000</td><td>≈ 0.01 S</td><td>≈ 0.05 FTM</td><td>≈ 0.12 ROSE</td></tr></tbody></table>
+<table><thead><tr><th width="219.66666666666663">Smart Contract Methods</th><th>Gas Limit</th><th>*Estimated Price in S</th><th>*Estimated Price in FTM</th><th>*Estimated Price in ROSE</th></tr></thead><tbody><tr><td><code>[Users]</code> Register Encryptor</td><td>145000</td><td>≈ 0.0015S</td><td>≈ 0.0059FTM</td><td>≈ 0.014ROSE</td></tr><tr><td><code>[Mail]</code> Send Mail</td><td>610000</td><td>≈ 0.0061S</td><td>≈ 0.025FTM</td><td>≈ 0.061ROSE</td></tr><tr><td><code>[Mail]</code> Send Data file Package</td><td>610000</td><td>≈ 0.0061S</td><td>≈ 0.025FTM</td><td>≈ 0.061ROSE</td></tr><tr><td><code>[Chat]</code> Send Message</td><td>*500000</td><td>≈ 0.005S</td><td>≈ 0.02FTM</td><td>≈ 0.05ROSE</td></tr><tr><td><code>[Chat]</code> Create Group</td><td>*1025625</td><td>≈ 0.01S</td><td>≈ 0.04FTM</td><td>≈ 0.1ROSE</td></tr><tr><td><code>[PX]</code> Mint free package or new storage</td><td>3800000</td><td>≈ 0.038S</td><td>≈ 0.15FTM</td><td>≈ 0.38ROSE</td></tr><tr><td><code>[PX]</code> Mint Bandwidth</td><td>860000</td><td>≈ 0.009S</td><td>≈ 0.03FTM</td><td>≈ 0.086ROSE</td></tr><tr><td><code>[PX]</code> Upgrade Package</td><td>1240000</td><td>≈ 0.01S</td><td>≈ 0.05FTM</td><td>≈ 0.12ROSE</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Service Fees" %}
@@ -32,13 +32,13 @@ Parallel to the underlying L1/L2 transaction gas cost, the service fees (i.e. pr
 {% endtab %}
 
 {% tab title="PX sNFT Price" %}
-<table><thead><tr><th>Size</th><th>Bandwidth Limit</th><th width="88">Estimated price in $</th><th>Estimated Price in S</th><th>Estimated Price in FTM</th><th>Estimated Price in ROSE</th></tr></thead><tbody><tr><td><code>100MB</code></td><td>25 uploads</td><td>Free</td><td>Free</td><td>Free</td><td>Free</td></tr><tr><td><code>1GB</code></td><td>50 uploads</td><td>≈ 5$</td><td>≈ TBD</td><td>≈ 12 FTM</td><td>≈ 80 ROSE</td></tr><tr><td><code>5GB</code></td><td>150 uploads</td><td>≈ 15$</td><td>≈ TBD</td><td>≈ 35 FTM</td><td>≈ 240 ROSE</td></tr><tr><td><code>20BG</code></td><td>400 uploads</td><td>≈ 30$</td><td>≈ TBD</td><td>≈ 70 FTM</td><td>≈ 470 ROSE</td></tr></tbody></table>
+<table><thead><tr><th>Size</th><th>Bandwidth Limit</th><th width="88">Estimated price in $</th><th>Estimated Price in S</th><th>Estimated Price in FTM</th><th>Estimated Price in ROSE</th></tr></thead><tbody><tr><td><code>100MB</code></td><td>25 uploads</td><td>Free</td><td>Free</td><td>Free</td><td>Free</td></tr><tr><td><code>1GB</code></td><td>50 uploads</td><td>≈ 5$</td><td>≈ 12S</td><td>≈ 12FTM</td><td>≈ 80ROSE</td></tr><tr><td><code>5GB</code></td><td>150 uploads</td><td>≈ 15$</td><td>≈ 35S</td><td>≈ 35FTM</td><td>≈ 240ROSE</td></tr><tr><td><code>20BG</code></td><td>400 uploads</td><td>≈ 30$</td><td>≈ 70S</td><td>≈ 70FTM</td><td>≈ 470ROSE</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="PX Bandwidth Price" %}
 | Bandwidth  | Estimated Price in $ | Estimated Price in S | Estimated Price in FTM | Estimated Price in ROSE |
 | ---------- | -------------------- | -------------------- | ---------------------- | ----------------------- |
-| 10 uploads | ≈ 1$                 | ≈ TBD                | ≈ 3 FTM                | ≈ 16 ROSE               |
+| 10 uploads | ≈ 1$                 | ≈ 3S                 | ≈ 3FTM                 | ≈ 16ROSE                |
 {% endtab %}
 
 {% tab title="Resources" %}
