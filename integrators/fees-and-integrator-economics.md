@@ -32,13 +32,18 @@ Parallel to the underlying L1/L2 transaction gas cost, the service fees (i.e. pr
 {% endtab %}
 
 {% tab title="PX sNFT Price" %}
-<table><thead><tr><th>Size</th><th>Bandwidth Limit</th><th width="88">Estimated price in $</th><th>Estimated Price in S</th><th>Estimated Price in FTM</th><th>Estimated Price in ROSE</th></tr></thead><tbody><tr><td><code>100MB</code></td><td>25 uploads</td><td>Free</td><td>Free</td><td>Free</td><td>Free</td></tr><tr><td><code>1GB</code></td><td>50 uploads</td><td>≈ 5$</td><td>≈ 12S</td><td>≈ 12FTM</td><td>≈ 80ROSE</td></tr><tr><td><code>5GB</code></td><td>150 uploads</td><td>≈ 15$</td><td>≈ 35S</td><td>≈ 35FTM</td><td>≈ 240ROSE</td></tr><tr><td><code>20BG</code></td><td>400 uploads</td><td>≈ 30$</td><td>≈ 70S</td><td>≈ 70FTM</td><td>≈ 470ROSE</td></tr></tbody></table>
+| Size    | Bandwidth Limit | Estimated Price in S | Estimated Price in FTM | Estimated Price in ROSE |
+| ------- | --------------- | -------------------- | ---------------------- | ----------------------- |
+| `100MB` | 25 uploads      | Free                 | Free                   | Free                    |
+| `1GB`   | 50 uploads      | ≈ 12S                | ≈ 12FTM                | ≈ 80ROSE                |
+| `5GB`   | 150 uploads     | ≈ 35S                | ≈ 35FTM                | ≈ 240ROSE               |
+| `20BG`  | 400 uploads     | ≈ 70S                | ≈ 70FTM                | ≈ 470ROSE               |
 {% endtab %}
 
 {% tab title="PX Bandwidth Price" %}
-| Bandwidth  | Estimated Price in $ | Estimated Price in S | Estimated Price in FTM | Estimated Price in ROSE |
-| ---------- | -------------------- | -------------------- | ---------------------- | ----------------------- |
-| 10 uploads | ≈ 1$                 | ≈ 3S                 | ≈ 3FTM                 | ≈ 16ROSE                |
+| Bandwidth  | Estimated Price in S | Estimated Price in FTM | Estimated Price in ROSE |
+| ---------- | -------------------- | ---------------------- | ----------------------- |
+| 10 uploads | ≈ 3S                 | ≈ 3FTM                 | ≈ 16ROSE                |
 {% endtab %}
 
 {% tab title="Resources" %}
