@@ -24,7 +24,8 @@
 
 ## Integrators
 
-* [Use Cases & Integrations](integrators/use-cases-and-integrations.md)
+* [Use Cases & Integrations](integrators/use-cases-and-integrations/README.md)
+  * [ElizaOS](integrators/use-cases-and-integrations/elizaos.md)
 * [Fees & Integrator Economics](integrators/fees-and-integrator-economics.md)
 * [Multi-chain](integrators/multi-chain.md)
 * [Architecture by Layers](integrators/architecture-by-layers/README.md)
@@ -40,7 +41,6 @@
   * [Intro to Integrator Dashboard](integrators/clients-and-tools/intro-to-integrator-dashboard.md)
 * [OCC White-labels](integrators/occ-white-labels.md)
 * [OCC SDK](integrators/occ-sdk.md)
-* [ElizaOS](integrators/elizaos.md)
 
 ## Immu3 AppChain
 

@@ -35,7 +35,7 @@ While built and developed by the 4thTech initiative, the multi-chain OCC Protoco
 **Explainer:** The envelope URL and envelope checksum are saved within the \[Mails] smart contract and include the time of the send information and the sender data (i.e. sender address). Envelope stands for metadata that is stored encrypted on decentralized storage (i.e.PollinationX).
 {% endhint %}
 
-`[Mails]` smart contract enables Web3 data exchange and communication in various use cases. To learn more visit the [use cases](../use-cases-and-integrations.md) page.
+`[Mails]` smart contract enables Web3 data exchange and communication in various use cases. To learn more visit the [use cases](../use-cases-and-integrations/) page.
 
 ### \[Chat] **Smart Contract**
 
@@ -59,7 +59,7 @@ While built and developed by the 4thTech initiative, the multi-chain OCC Protoco
 **Explainer:** Messages are stored on-chain, while data and media files are exchanged using PollinationX decentralized storage on demand. &#x20;
 {% endhint %}
 
-The `[Chat]` smart contract enables Web3 data exchange and communication in various use cases. To learn more visit the [use cases](../use-cases-and-integrations.md) page.
+The `[Chat]` smart contract enables Web3 data exchange and communication in various use cases. To learn more visit the [use cases](../use-cases-and-integrations/) page.
 
 ### \[Users] **Smart Contract**
 
