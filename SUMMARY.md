@@ -40,6 +40,7 @@
   * [Intro to Integrator Dashboard](integrators/clients-and-tools/intro-to-integrator-dashboard.md)
 * [OCC White-labels](integrators/occ-white-labels.md)
 * [OCC SDK](integrators/occ-sdk.md)
+* [ElizaOS](integrators/elizaos.md)
 
 ## Immu3 AppChain
 
