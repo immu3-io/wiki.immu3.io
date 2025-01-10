@@ -12,8 +12,9 @@ Architecture refers to the components and subcomponents or layers that comprise 
 
 ### Layers
 
-Connected by the [OCC SDK](https://wiki.immu3.io/integrators/occ-sdk) (i.e. software development kit) and later the Integrator Dashboard, six layers complete the on-chain communication framework:
+Connected by the [OCC SDK](https://wiki.immu3.io/integrators/occ-sdk) (i.e. software development kit) and later the Integrator Dashboard, seven layers complete the on-chain communication framework:
 
+* Integrator use cases
 * [AppSuite](https://wiki.immu3.io/end-users/appsuite)
 * [White labels](../occ-white-labels.md)
 * [Encryption](encryption.md)
