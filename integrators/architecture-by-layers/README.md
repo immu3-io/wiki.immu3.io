@@ -21,5 +21,5 @@ Connected by the [OCC SDK](https://wiki.immu3.io/integrators/occ-sdk) (i.e. soft
 * [Decentralized storage](pollinationx-decentralized-storage-infra.md)
 * [Blockchain network](../multi-chain.md)
 
-<figure><img src="../../.gitbook/assets/IMMU3-INFRA-LAYERS-24-v2-comp.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMMU3-INFRA-LAYERS-25-small.png" alt=""><figcaption></figcaption></figure>
 
