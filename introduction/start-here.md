@@ -61,6 +61,7 @@ Immu3 is the ultimate Web3-Infra stack for building and utilizing on-chain commu
 * [**End-user App Suite**](https://wiki.immu3.io/end-users/end-users-app-suite)**:** Offers a self-custodial Web3 alternative to traditional email, messaging, and data-sharing platforms.&#x20;
 * [**AppChain**](https://wiki.immu3.io/immu3-appchain/intro-to-appchain)**:** Delivers a smart contract EVM AppChain with reliability, scalability and security needed within use cases of on-chain communication.
 * [**Multi-chain**](https://wiki.immu3.io/integrators/multi-chain)**:** Creates multi-chain protocol instances and enables ready-to-use compatibility with multiple EVM chains.
+* [**ElizaOS Plugin:**](../integrators/use-cases-and-integrations/elizaos.md) Enable devs to give AI agents additional powers of permissionless on-chain communication and data storage ownership.
 
 ### Associated Fees
 
