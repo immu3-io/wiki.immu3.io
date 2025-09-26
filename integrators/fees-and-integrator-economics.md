@@ -18,36 +18,38 @@ Parallel to the underlying L1/L2 transaction gas cost, the service fees (i.e. pr
 
 {% tabs %}
 {% tab title="Blockchain Fees" %}
-<table><thead><tr><th width="219.66666666666663">Smart Contract Methods</th><th>Gas Limit</th><th>*Estimated Price in $S</th><th>*Estimated Price in $FTM</th><th>*Estimated Price in $ROSE</th></tr></thead><tbody><tr><td><code>[Users]</code> Register Encryptor</td><td>145000</td><td>≈ 0.0015S</td><td>≈ 0.0059FTM</td><td>≈ 0.014ROSE</td></tr><tr><td><code>[Mail]</code> Send Mail</td><td>610000</td><td>≈ 0.0061S</td><td>≈ 0.025FTM</td><td>≈ 0.061ROSE</td></tr><tr><td><code>[Mail]</code> Send Data file Package</td><td>610000</td><td>≈ 0.0061S</td><td>≈ 0.025FTM</td><td>≈ 0.061ROSE</td></tr><tr><td><code>[Chat]</code> Send Message</td><td>*500000</td><td>≈ 0.005S</td><td>≈ 0.02FTM</td><td>≈ 0.05ROSE</td></tr><tr><td><code>[Chat]</code> Create Group</td><td>*1025625</td><td>≈ 0.01S</td><td>≈ 0.04FTM</td><td>≈ 0.1ROSE</td></tr><tr><td><code>[PX]</code> Mint free package or new storage</td><td>3800000</td><td>≈ 0.038S</td><td>≈ 0.15FTM</td><td>≈ 0.38ROSE</td></tr><tr><td><code>[PX]</code> Mint Bandwidth</td><td>860000</td><td>≈ 0.009S</td><td>≈ 0.03FTM</td><td>≈ 0.086ROSE</td></tr><tr><td><code>[PX]</code> Upgrade Package</td><td>1240000</td><td>≈ 0.01S</td><td>≈ 0.05FTM</td><td>≈ 0.12ROSE</td></tr></tbody></table>
+<table><thead><tr><th width="219.66666666666663">Smart Contract Methods</th><th>Gas Limit</th><th>*Estimated Price in $xDAI</th><th>*Estimated Price in $POL</th><th>*Estimated Price in $S</th><th>*Estimated Price in $FTM</th><th>*Estimated Price in $ROSE</th></tr></thead><tbody><tr><td><code>[Users]</code> Register Encryptor</td><td>145000</td><td>≈ xDAI</td><td>≈ 0.004POL</td><td>≈ 0.0015S</td><td>≈ 0.0059FTM</td><td>≈ 0.014ROSE</td></tr><tr><td><code>[Mail]</code> Send Mail</td><td>610000</td><td>≈ xDAI</td><td>≈ 0.016POL</td><td>≈ 0.0061S</td><td>≈ 0.025FTM</td><td>≈ 0.061ROSE</td></tr><tr><td><code>[Mail]</code> Send Data file Package</td><td>610000</td><td>≈ xDAI</td><td>≈ 0.016POL</td><td>≈ 0.0061S</td><td>≈ 0.025FTM</td><td>≈ 0.061ROSE</td></tr><tr><td><code>[Chat]</code> Send Message</td><td>*500000</td><td>≈ xDAI</td><td>≈ 0.013POL</td><td>≈ 0.005S</td><td>≈ 0.02FTM</td><td>≈ 0.05ROSE</td></tr><tr><td><code>[Chat]</code> Create Group</td><td>*1025625</td><td>≈ xDAI</td><td>≈ 0.02POL</td><td>≈ 0.01S</td><td>≈ 0.04FTM</td><td>≈ 0.1ROSE</td></tr><tr><td><code>[PX]</code> Mint free package or new storage</td><td>3800000</td><td>≈ xDAI</td><td>≈ 0.1POL</td><td>≈ 0.038S</td><td>≈ 0.15FTM</td><td>≈ 0.38ROSE</td></tr><tr><td><code>[PX]</code> Mint Bandwidth</td><td>860000</td><td>≈ xDAI</td><td>≈ 0.02POL</td><td>≈ 0.009S</td><td>≈ 0.03FTM</td><td>≈ 0.086ROSE</td></tr><tr><td><code>[PX]</code> Upgrade Package</td><td>1240000</td><td>≈ xDAI</td><td>≈ 0.03POL</td><td>≈ 0.01S</td><td>≈ 0.05FTM</td><td>≈ 0.12ROSE</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Service Fees" %}
-| dApp              | Smart Contract | Base Fee                    | dApp Fee                    | Total                        | Bandwidth                |
-| ----------------- | -------------- | --------------------------- | --------------------------- | ---------------------------- | ------------------------ |
-| BlockCommunicator | `[Mail]`       | TBD                         | TBD                         | /                            | /                        |
-| BlockCommunicator | `[Chat]`       | TBD                         | TBD                         | /                            | /                        |
-| W3XShare App      | `[Mail]`       | \~0.0075$ S, FTM, ROSE... ≡ | \~0.0925$ S, FTM, ROSE... ≡ | \~**0.1$** S, FTM, ROSE... ≡ | 2                        |
-| 4P Super App      | `[Mail]`       | \~0.0075$ S, FTM, ROSE ≡    | \~0.0025$ S, FTM, ROSE ≡    | \~**0.01$** S, FTM, ROSE ≡   | 1 (json) + X attachments |
-| 4P Super App      | `[Chat]`       | \~0.0025$ S, FTM, ROSE ≡    | \~0.0025$ S, FTM, ROSE ≡    | \~**0.005$** S, FTM, ROSE ≡  | /                        |
+| dApp              | Smart Contract | Base Fee                               | dApp Fee                           | Total                                 | Bandwidth                |
+| ----------------- | -------------- | -------------------------------------- | ---------------------------------- | ------------------------------------- | ------------------------ |
+| BlockCommunicator | `[Mail]`       | TBD                                    | TBD                                | /                                     | /                        |
+| BlockCommunicator | `[Chat]`       | TBD                                    | TBD                                | /                                     | /                        |
+| W3XShare App      | `[Mail]`       | \~0.0075$ xDAI, POL, S, FTM, ROSE... ≡ | \~0.0925$ xDAI, POL, S,, ROSE... ≡ | \~**0.1$** xDAI, S, POL, ROSE... ≡    | 2                        |
+| 4P Super App      | `[Mail]`       | \~0.0075$ xDAI, POL, S,, ROSE ≡        | \~0.0025$ xDAI, POL, S, ROSE ≡     | \~**0.01$** xDAI, POL, S, ROSE ≡      | 1 (json) + X attachments |
+| 4P Super App      | `[Chat]`       | \~0.0025$ xDAI, POL, S, ROSE ≡         | \~0.0025$ xDAI, POL, S, ROSE ≡     | \~**0.005$** S, xDAI, POL, S,  ROSE ≡ | /                        |
+
+
 {% endtab %}
 
 {% tab title="PX sNFT Price" %}
-| Size    | Bandwidth Limit | Estimated Price in $S | Estimated Price in $FTM | Estimated Price in $ROSE |
-| ------- | --------------- | --------------------- | ----------------------- | ------------------------ |
-| `100MB` | 25 uploads      | Free                  | Free                    | Free                     |
-| `1GB`   | 50 uploads      | ≈ 12S                 | ≈ 12FTM                 | ≈ 80ROSE                 |
-| `5GB`   | 150 uploads     | ≈ 35S                 | ≈ 35FTM                 | ≈ 240ROSE                |
-| `20BG`  | 400 uploads     | ≈ 70S                 | ≈ 70FTM                 | ≈ 470ROSE                |
+| Size    | Bandwidth Limit | Estimated Price in $xDAI | Estimated Price in $POL | Estimated Price in $S | Estimated Price in $FTM | Estimated Price in $ROSE |
+| ------- | --------------- | ------------------------ | ----------------------- | --------------------- | ----------------------- | ------------------------ |
+| `100MB` | 25 uploads      | Free                     | Free                    | Free                  | Free                    | Free                     |
+| `1GB`   | 50 uploads      | ≈ 5$                     | ≈ 25POL                 | ≈ 12S                 | ≈ 12FTM                 | ≈ 80ROSE                 |
+| `5GB`   | 150 uploads     | ≈ 15$                    | ≈ 70POL                 | ≈ 35S                 | ≈ 35FTM                 | ≈ 240ROSE                |
+| `20BG`  | 400 uploads     | ≈ 30$                    | ≈ 140POL                | ≈ 70S                 | ≈ 70FTM                 | ≈ 470ROSE                |
 {% endtab %}
 
 {% tab title="PX Bandwidth Price" %}
-| Bandwidth  | Estimated Price in $S | Estimated Price in $FTM | Estimated Price in $ROSE |
-| ---------- | --------------------- | ----------------------- | ------------------------ |
-| 10 uploads | ≈ 3S                  | ≈ 3FTM                  | ≈ 16ROSE                 |
+| Bandwidth  | Estimated Price in $xDAI | Estimated Price in $POL | Estimated Price in $S | Estimated Price in $FTM | Estimated Price in $ROSE |
+| ---------- | ------------------------ | ----------------------- | --------------------- | ----------------------- | ------------------------ |
+| 10 uploads | ≈ 1$                     | ≈ 6POL                  | ≈ 3S                  | ≈ 3FTM                  | ≈ 16ROSE                 |
 {% endtab %}
 
 {% tab title="Resources" %}
-<table><thead><tr><th width="163.66666666666663">Function</th><th width="196">GAS Tracker</th><th width="207">Unit Converter</th><th>Token</th></tr></thead><tbody><tr><td>Fantom</td><td><a href="https://ftmscan.com/gastracker">Fantom GasTracker</a></td><td><a href="https://ftmscan.com/unitconverter">Fantom UnitConverter</a></td><td>FTM</td></tr><tr><td>Oasis Sapphire</td><td>/</td><td>/</td><td>ROSE</td></tr></tbody></table>
+<table><thead><tr><th width="163.66666666666663">Function</th><th width="196">GAS Tracker</th><th width="207">Unit Converter</th><th>Token</th></tr></thead><tbody><tr><td>Polygon</td><td><a href="https://polygonscan.com/gastracker">Polygon GasTracker</a></td><td>/</td><td>POL</td></tr><tr><td>Fantom</td><td><a href="https://ftmscan.com/gastracker">Fantom GasTracker</a></td><td><a href="https://ftmscan.com/unitconverter">Fantom UnitConverter</a></td><td>FTM</td></tr><tr><td>Oasis Sapphire</td><td>/</td><td>/</td><td>ROSE</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
